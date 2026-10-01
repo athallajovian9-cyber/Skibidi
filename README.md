@@ -16,10 +16,10 @@ Download from [Releases](../../releases). No installer.
 
 ## Notes
 
-- Portable. Nothing is written outside your user profile.
-- The source sits in this repo next to the build.
+- Runs in the browser. Nothing is installed.
+- The whole game is one HTML file, shipped in the release - open it in any browser.
 - Questions and bug reports: the [Discord](https://discord.gg/QtyBucygQ6), in `#help` and `#bug-reports`.
 
 ## Disclaimer
 
-This is a system tweak. It changes real Windows settings. Read what it does before running it, and use the tool's own restore option if something behaves unexpectedly. Provided as is, with no warranty.
+A joke, provided as is, with no warranty. It is a browser game and it changes nothing outside its own tab.
